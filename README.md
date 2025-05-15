@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Maheshwari</h1>
-<h3 align="center">A passionate Security Engineer and Developer</h3>
+<p align="center">
+  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Cyber%20Security%20Enthusiast;Software%20Engineer;Computer%20Science%20Graduate;Updating%20with%20latest%20technologies!!&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ph1z3r&label=Profile%20views&color=0e75b6&style=flat" alt="ph1z3r" /> </p>
 
